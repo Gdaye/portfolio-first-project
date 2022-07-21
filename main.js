@@ -406,11 +406,6 @@ document.querySelectorAll('.btnmove').forEach(function(item){
  
 
  
-
- 
-
- 
-
  
 
  
